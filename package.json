@@ -1,6 +1,7 @@
 {
   "name": "mycoachingpro",
   "private": true,
+  "homepage": "https://alybi.github.io/mycoachingpro/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
